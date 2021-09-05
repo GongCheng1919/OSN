@@ -1,0 +1,9 @@
+#file
+*.h5
+#*.log
+*.tar
+
+#folder
+.ipynb_checkpoints
+__pycache__
+matlab_results
